@@ -1,0 +1,7 @@
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Tech-W96a\engineering26\week6\Day2\Testing_hmw\NUnit_Test\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
